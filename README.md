@@ -4,3 +4,4 @@
 可以下载scratch版或python版，体验乐趣吧!!!  
 最新版本：v0.1.0  
 下载链接：https://github.com/xuchenruisz/--xcrsz/releases/tag/1  
+###校园
