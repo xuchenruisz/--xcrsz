@@ -32,5 +32,6 @@ https://github.com/user-attachments/assets/3ad5d924-16e3-4875-983b-f00f8358b6c7
 极其强力，射速顶级，适合解决扎堆的敌人。  
 ### 火箭弹  
 一击必杀的武器，攻击范围广，但是射程不够。  
-感兴趣的可以看介绍ppt
+感兴趣的可以看介绍ppt  
+ppt下载链接：https://github.com/xuchenruisz/--xcrsz/releases/tag/4
 
