@@ -12,5 +12,9 @@
 下载链接：https://github.com/xuchenruisz/--xcrsz/releases/tag/2  
 最新介绍ppt下载链接：https://github.com/xuchenruisz/--xcrsz/releases/tag/3  
 #### 推荐编程软件：trae   
-trea下载链接：https://www.trae.cn
+trea下载链接：https://www.trae.cn  
+## 隔板射击战  
+是一个好玩的枪战游戏准确来说隔板射击战应该是学校大战.sb3的python版，拥有多种模式，支持双人模式和单人模式，内有多种武器。  
+### 手枪
+开局默认枪支，不支持长按发射，按一次发射键发射一次，一发子弹消减1滴血
 
